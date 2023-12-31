@@ -1,10 +1,12 @@
 ### Olá! Eu sou o João alves 👋
 
+Fala galera! Me chamo João, tenho 18 anos, estudande de Engenharia de Software. Tenho objetivo em me tornar Desenvolvedor Front-End com foco em Desenvolvedor Web, mas estou aberto em me adaptar em qualquer linguagem que a empresa deseja que eu aprenda.
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-a-262788275/)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoAlves77&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu uso para Programar / Desenvolver
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ?/>
