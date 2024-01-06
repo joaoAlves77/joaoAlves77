@@ -22,5 +22,4 @@ Fala galera! Me chamo João, tenho 18 anos, estudande de Engenharia de Software.
 Apaixonado por tecnologia, e sempre procurando em aprender mais.
 
 ##
-##
 Meus Contatos
