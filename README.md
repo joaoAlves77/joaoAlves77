@@ -24,3 +24,7 @@ Apaixonado por tecnologia, e sempre procurando em aprender mais.
 ##
 ## Meus Contatos
 
+<div style="display: inline_block">
+  	<img align="center" alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ?/>
+</div>
+
