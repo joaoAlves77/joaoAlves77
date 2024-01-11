@@ -24,6 +24,3 @@ Apaixonado por tecnologia, e sempre procurando em aprender mais.
 ##
 ## Meus Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](61994429578)
-
-
