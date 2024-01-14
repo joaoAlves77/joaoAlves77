@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João alves 👋
 
 ##
-Fala galera! Me chamo João, tenho 18 anos, estudande de Engenharia de Software. Tenho objetivo em me tornar Desenvolvedor Full Stack com foco em Desenvolvedor Web, mas estou aberto em me adaptar em qualquer linguagem que a empresa deseja que eu aprenda.
+Fala galera! Me chamo João, tenho 18 anos, estudande de Engenharia de Software. Tenho objetivo em me tornar Desenvolvedor Full Stack com foco em Desenvolvedor Web, mas estou aberto em me adaptar em qualquer linguagem que a empresa deseja que eu aprenda. Atualmente estou estudando com a B7Web um curso para Full Stack.
 ##
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-a-262788275/)
@@ -22,5 +22,5 @@ Fala galera! Me chamo João, tenho 18 anos, estudande de Engenharia de Software.
 Apaixonado por tecnologia, e sempre procurando em aprender mais.
 
 ##
-## Meus Contatos
+## Para Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
