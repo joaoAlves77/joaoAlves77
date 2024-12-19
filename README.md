@@ -3,7 +3,7 @@
 ##
 Fala galera!
 
-Me chamo João, tenho 19 anos, estudande de Engenharia de Software. Tenho objetivo em me tornar Desenvolvedor FrontEnd com foco em Desenvolvedor Web, mas estou aberto em me adaptar em qualquer linguagem que a empresa deseja que eu aprenda. Atualmente estou estudando com a B7Web, um curso para Full Stack.
+Seja bem vindo ao meu perfil! Me chamo João, tenho 19 anos, estudande de Engenharia de Software. Tenho conhecimento avançado em HTML e CSS conhecimento intermediário em Javascript, TypeScript, TailwindCSS, React e NextJs, conhecimento básico em SQL e  Java e tenho objetivo em me tornar Desenvolvedor Full Stack com foco em Desenvolvedor Web, mas estou aberto em me adaptar em qualquer linguagem que a empresa deseja que eu aprenda.
 ##
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-a-262788275/)
