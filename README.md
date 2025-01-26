@@ -14,8 +14,6 @@
 
 </div>
 
-<img src="lineBar.png" width="100%" height="8px"/>
-
 <div><br />
 
 ## My Stack
@@ -31,8 +29,6 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
 
 <br />
-
-<img src="lineBar.png" width="100%" height="8px"/>
 
 ## Contact me
 
